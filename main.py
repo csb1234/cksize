@@ -1,4 +1,4 @@
-token = "5213269532:AAFrQiLuFeVgRfMmy1H6aXwLzdIsuE1x2Xs"
+token = ""
 from telegram.ext.updater import Updater
 from telegram.update import Update
 from telegram.ext.callbackcontext import CallbackContext
